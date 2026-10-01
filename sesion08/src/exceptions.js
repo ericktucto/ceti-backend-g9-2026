@@ -1,0 +1,1 @@
+export class JwtTokenInvalid extends Error {}
